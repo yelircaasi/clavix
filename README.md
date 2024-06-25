@@ -11,7 +11,7 @@ remain a work in progress for some time. Suggestions welcome!
 
 * it should be possible to represent and query any key sequence of any type
 * all collisions should be detected
-* top priority software supported: hyprland, sway, kanata, neovim, espanso
+* top priority software supported: nix, wezterm, hyprland, sway, kanata, neovim, espanso
 
 ### Key Press Types
 
